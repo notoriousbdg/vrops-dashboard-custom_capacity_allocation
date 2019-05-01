@@ -26,6 +26,6 @@ Use this [vRealize Operations](https://www.vmware.com/products/vrealize-operatio
 
 ## Support
 
-This dashboard requires vRealize Operation 6.7 (or newer) Advanced or Enterprise edition.
+This dashboard requires vRealize Operation 6.7 or 7.0 Advanced or Enterprise edition.
 
 Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-custom_capacity_allocation/issues) for feedback.
